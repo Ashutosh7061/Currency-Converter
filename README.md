@@ -19,6 +19,6 @@ A responsive web application for real-time currency conversion using JavaScript,
 
 ## 📸 Screenshot
 
-![Currency Converter Screenshot](ss.png) <!-- Add a real screenshot in your repo with this filename -->
+![Currency Converter Screenshot](ss.png) <!-- Add a real screenshot in your repo with this filename --> 
 
 
